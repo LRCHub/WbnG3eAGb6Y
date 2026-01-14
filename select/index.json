@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "The Winner Takes It All",
+  "base_artist": "ABBA",
+  "createdAt": "2026-01-14T00:48:25.247655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "Abba",
+      "has_synced": true,
+      "path": "select/01_The_Winner_Takes_It_All_Abba.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/02_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "Abba",
+      "has_synced": true,
+      "path": "select/03_The_Winner_Takes_It_All_Abba.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/04_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/05_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/06_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/07_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Winner Takes it All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/08_The_Winner_Takes_it_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/09_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/10_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "Abba",
+      "has_synced": true,
+      "path": "select/11_The_Winner_Takes_It_All_Abba.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/12_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/13_The_Winner_Takes_It_All_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Winner Takes It All",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/14_The_Winner_Takes_It_All_Verschiedene.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "has_synced": false,
+      "path": "select/pl_01_The_Winner_Takes_It_All_ABBA.txt"
+    }
+  ]
+}
