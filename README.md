@@ -1,0 +1,81 @@
+# ABBA – The Winner Takes It All
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:32.14] I don't wanna talk
+[00:35.42] About things we've gone through
+[00:39.57] Though it's hurting me
+[00:43.08] Now it's history
+[00:51.08] 
+[00:47.30] I've played all my cards
+[00:51.44] And that's what you've done too
+[00:55.30] Nothing more to say
+[00:59.07] No more ace to play
+[01:08.57] 
+[01:02.86] The winner takes it all
+[01:06.77] The loser's standing small
+[01:10.67] Beside the victory
+[01:14.34] That's her destiny
+[01:23.34] 
+[01:18.90] I was in your arms
+[01:22.53] Thinking I belonged there
+[01:26.50] I figured it made sense
+[01:29.92] Building me a fence
+[01:39.42] 
+[01:33.93] Building me a home
+[01:37.94] Thinking I'd be strong there
+[01:41.74] But I was a fool
+[01:45.21] Playing by the rules
+[01:55.21] 
+[01:49.26] The gods may throw a dice
+[01:53.08] Their minds as cold as ice
+[01:56.96] And someone way down here
+[02:00.89] Loses someone dear
+[02:09.89] 
+[02:04.47] The winner takes it all (takes it all)
+[02:08.35] The loser has to fall (has to fall)
+[02:12.08] It's simple and it's plain (it's so plain)
+[02:15.64] Why should I complain? (Why complain?)
+[02:34.64] 
+[02:19.93] But tell me, does she kiss
+[02:23.42] Like I used to kiss you?
+[02:27.38] Does it feel the same
+[02:30.67] When she calls your name?
+[02:43.17] 
+[02:34.74] Somewhere deep inside
+[02:38.46] You must know I miss you
+[02:42.36] But what can I say?
+[02:46.14] Rules must be obeyed
+[02:56.14] 
+[02:50.00] The judges will decide (will decide)
+[02:53.86] The likes of me abide (me abide)
+[02:57.81] Spectators of the show (of the show)
+[03:01.37] Always staying low (staying low)
+[03:17.37] 
+[03:05.03] The game is on again (on again)
+[03:08.98] A lover or a friend (or a friend)
+[03:12.61] A big thing or a small (big or small)
+[03:16.44] The winner takes it all (takes it all)
+[03:35.44] 
+[03:22.42] I don't wanna talk
+[03:25.81] If it makes you feel sad
+[03:29.76] And I understand
+[03:33.16] You've come to shake my hand
+[03:47.16] 
+[03:37.65] I apologize
+[03:41.41] If it makes you feel bad
+[03:45.07] Seeing me so tense
+[03:48.92] No self-confidence
+[03:52.29] But you see
+[03:57.79] 
+[03:53.13] The winner takes it all
+[04:00.32] The winner takes it all
+[04:11.82] 
+[04:09.77] So the winner takes it all
+[04:17.29] And the loser has to fall
+[04:24.50] Throw the dice, cold as ice
+[04:32.11] Way down here, someone dear
+[04:39.72] Takes it all, has to fall
+[04:47.22] And it's plain, why complain?
+```
